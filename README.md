@@ -2,10 +2,6 @@
 
 <h3>My achievements and useful snippets in web development</h3>
 
-
-<h3>My achievements and useful snippets in web development</h3>
-
-
 <h2><em>01</em> Wordpress + PHP snippets</h2>
 <a href="/">View all snippets</a>
 
