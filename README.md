@@ -2,10 +2,6 @@
 
 <h3>My achievements and useful snippets in web development</h3>
 
----
-view: page
-title: "46. Чистые репозитории"
----
 
 <h2><em>01</em> Wordpress + PHP snippets</h2>
 
